@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="Dashboard"
+  >
+    <h2>
+      Baseball Dashboard
+    </h2>
+    <button
+      data-testid="addStrike"
+      onClick={[Function]}
+    >
+      Strike
+    </button>
+    <button
+      data-testid="addBall"
+      onClick={[Function]}
+    >
+      Ball
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      Foul
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      Hit
+    </button>
+  </div>
+  <h3>
+    Strikes: 
+    0
+     
+  </h3>
+  <h3>
+    Balls: 
+    0
+     
+  </h3>
+  <h3>
+    Fouls: 
+    0
+     
+  </h3>
+  <h3>
+    Hits 
+    0
+     
+  </h3>
+</div>
+`;
